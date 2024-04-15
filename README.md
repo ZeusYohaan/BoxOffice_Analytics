@@ -30,12 +30,7 @@
 
 6) tweepy
 
-### References
-
-1) boxofficemojo.com
-
-2) pypi.org
-
-3) numpy.org
+### Demo
+![alt text](https://github.com/ZeusYohaan/BoxOffice_Analytics/blob/main/Screenshot_15-4-2024_23925_twitter.com.jpeg)
 
 
